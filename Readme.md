@@ -24,3 +24,4 @@ Tip: It can be a good idea to add new lines for every package you want to instal
 
 Tip: The current Dockerfile is based on an image that has R with INLA. If you don't need INLA, feel free to base the image
 on just R instead, e.g. by using `FROM`.
+
